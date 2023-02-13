@@ -18,7 +18,6 @@ pipeline {
     stage('Deploy') {
       steps {
         echo 'done!'
-        sh 'i am not working'
       }
     }
   }
